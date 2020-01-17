@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Siapakah Pahlawan Wanita Dari Jepara ?",
+        "2": "Tahun Berapakah Indonesia Merdeka ?",
+        "3": "Siapakah Penjahit Bendera Merah Putih ?",
+        "4": "Siapa Presiden Pertama Republik Indonesia ?",
+        "5": "Setrategi apa yang membuar Jendral Sudirman Memenangkan Perang ?",
+        "6": "Berapa Bahasa yang dikuasai Oleh Ir. Soekarno ?",
+        "7": "Indonesia dijajah Oleh Belanda Selama ?",
+        "8": "Di dalam Mata uang Lima Ribu Rupiah Terdapat Gambar sosok Pahlawan, siapakah itu ?",
+        "9": "Siapakah Presiden RI ke Tiga ?",
+        "10": "Senjata yang digunakan Oleh Indonesia untuk mengusir penjajah adalah ?"
+    },
+    {
+        "1": {
+            "a": "R.A. Kartini",
+            "b": "Teuku Mutia",
+            "c": "Cendani",
+            "d": "Ratu Kalimantan"
+        },
+        "2": {
+            "a": "1954",
+            "b": "1955",
+            "c": "1945",
+            "d": "1944"
+        },
+        "3": {
+            "a": "Susanti",
+            "b": "Sudarmi",
+            "c": "Sunarti",
+            "d": "Fatmawati"
+        },
+        "4": {
+            "a": "Ir. Soekarno",
+            "b": "Moh. Hatta",
+            "c": "Jokowi",
+            "d": "Gusdur"
+        },
+        "5": {
+            "a": "Setrategi Bawah Tanah",
+            "b": "Perang Grilya",
+            "c": "Perang Sampit",
+            "d": "Perang Dunia"
+        },
+        "6": {
+            "a": "10",
+            "b": "11",
+            "c": "9",
+            "d": "12"
+        },
+        "7": {
+            "a": "35 Tahun",
+            "b": "3,5 Tahun",
+            "c": "3500 Tahun",
+            "d": "350 Tahun"
+        },
+        "8": {
+            "a": "Tuanku Iman Bonjol",
+            "b": "Pangeran Antasari",
+            "c": "Moh. Hatta",
+            "d": "Cut Ditiro"
+        },
+        "9": {
+            "a": "Megawati",
+            "b": "Gusdur",
+            "c": "Soeharto",
+            "d": "B.J Habibi"
+        },
+        "10": {
+            "a": "Bambu Runcing",
+            "b": "Pistol",
+            "c": "Snaiper",
+            "d": "Pisau"
+        }
+    },
+    {
+        "1": "R.A. Kartini",
+        "2": "1945",
+        "3": "Fatmawati",
+        "4": "Ir. Soekarno",
+        "5": "Perang Grilya",
+        "6": "12",
+        "7": "350 Tahun",
+        "8": "Tuanku Iman Bonjol",
+        "9": "B.J Habibi",
+        "10": "Bambu Runcing"
+    }
+]
